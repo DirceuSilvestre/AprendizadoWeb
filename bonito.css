@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    color: lawngreen;
+    font-size: 40px;
+}
+
+
+h2 {
+    
+    position: center;
+    color: blue;
+    margin-top: 15px;
+    margin-left: 300px;
+}
+
+#foto {
+    margin-left: 250px;
+    margin-top: 10px;
+}
+
+p {
+    text-align: center;
+    margin-top: 20px;
+    
+}
