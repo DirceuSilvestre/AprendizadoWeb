@@ -1,0 +1,10 @@
+#color{
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+#red, #green, #blue {
+    margin-left: 10px;
+}
